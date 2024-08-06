@@ -1,5 +1,5 @@
 
-# Password Generator
+# Show-Hide Password
 
 A simple React.js application to toggle the visibility of passwords.
 
